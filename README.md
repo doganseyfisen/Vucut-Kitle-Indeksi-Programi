@@ -1,5 +1,4 @@
 # Vucut-Kitle-Indeksi-Programi
-Vucut Kitle Indeksi Programi
 
 ## Java Programlama Dilinde Vucut Kitle Indeksi Programi
 
